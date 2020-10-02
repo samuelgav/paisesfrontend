@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "paisesfrontend"
+    }
+  },
+  "defaultProject": "paisesfrontend",
+  "cli": {
+    "analytics": "61bea2e8-5654-4ff8-8afc-fb81d4e2fc6e"
+  }
 }
